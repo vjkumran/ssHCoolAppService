@@ -10,3 +10,5 @@ Use them for personal stuff
 Use them for commercial stuff
 Change them however you like
 ... all for free, yo. In exchange, just give HTML5 UP credit for the design and tell your friends about it :)
+
+This is added in remote repository
